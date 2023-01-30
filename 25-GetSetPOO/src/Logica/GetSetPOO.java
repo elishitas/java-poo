@@ -8,9 +8,11 @@ package Logica;
 public class GetSetPOO {
 
     public static void main(String[] args) {
+    	//4.1
         Alumno alumno1 = new Alumno();
         Alumno alumno2 = new Alumno(34, "Lisa", "Ara");
         
+        //5.1
         System.out.println("La id de la alumna 2 es: " + alumno2.getId());
         System.out.println("El nombre de la alumna 2 es: " + alumno2.getNombre());
         System.out.println("El apellida de la alumna 2: " + alumno2.getApellido());

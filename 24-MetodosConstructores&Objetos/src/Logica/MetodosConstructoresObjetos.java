@@ -5,7 +5,7 @@ Posee un comportamiento -realiza operaciones de acuerdo a sus metodos-
  */
 package Logica;
 
-public class MetrodosConstructoresObjetos {
+public class MetodosConstructoresObjetos {
 
     public static void main(String[] args) {
           
